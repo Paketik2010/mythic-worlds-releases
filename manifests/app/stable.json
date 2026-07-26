@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Первый подписанный выпуск Mythic Worlds с независимыми обновлениями приложения, локальных моделей и медиатеки.",
-  "pub_date": "2026-07-26T10:52:21Z",
+  "version": "0.1.1",
+  "notes": "Новый логотип, исправленный OAuth-вход GitHub и Google в desktop-версии. MiniLM, CLIP и базовая медиатека теперь встроены в установщик и сразу работают офлайн.",
+  "pub_date": "2026-07-26T13:14:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQWcxdnJtWC9jaVpjTmhuWGdaRjVQek5lS2YwODU3QmxNUFlMYndkYnloRVdWWHlkYjVmQkRVWitYWDByWW5QV1JUU2ZqWWpFV0Y0T0xJTmRwUlBlVlNGaXJuK0l4Q3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDYzMDA2CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMF94NjQtc2V0dXAuZXhlClEvTFZEZjAxdk9EWHhXVXlDdmxIVENPN21QUlVLTndMK0pWYkxUT0dGRTJkSWlCRmNjVnZNcWZLbWVyTGt0dnc4Z3ZCa0FhV0REemdncHdhaW5rWUN3PT0K",
-      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.0/Mythic-Worlds-0.1.0-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQWcxdnJtWC9jaWYzVnF3U0V5cW1lNzczcmJtTS9xWmlsZnF4UFRnWUFhcUtodHozK3hwOFUra293LytoTHVjd0hCTVZyK3g4NGhPenp0TWhRRzVtR0MrS1ZlTHhVQUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDcxNTgwCWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMV94NjQtc2V0dXAuZXhlCitsYzAxNG5MOG1FV3FMeDZLcTZieEFFYkQ3Z1hIMWt5Ni9xUFFnUjlGVE5oRTg4SVZIMDlBTzI1eWQreTYwajZWWXFzZjMvNkVTeWYyejZIWmViUUJ3PT0K",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/latest/download/Mythic-Worlds-Setup.exe"
     }
   }
 }

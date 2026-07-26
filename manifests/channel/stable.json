@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "publishedAt": "2026-07-26T10:52:21Z",
+  "publishedAt": "2026-07-26T13:14:32Z",
   "components": [
     {
       "kind": "application",
       "title": "Mythic Worlds",
-      "version": "0.1.0",
-      "sizeBytes": 13654454,
+      "version": "0.1.1",
+      "sizeBytes": 276397150,
       "required": true,
       "notes": [
-        "Первый подписанный Windows-выпуск",
-        "Обновления кода, моделей и медиатеки разделены"
+        "Новый логотип и исправленный OAuth-вход в desktop-версии",
+        "MiniLM, CLIP и базовая медиатека уже включены в установщик"
       ]
     },
     {
