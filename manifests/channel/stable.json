@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "publishedAt": "2026-07-26T10:52:21Z",
+  "components": [
+    {
+      "kind": "application",
+      "title": "Mythic Worlds",
+      "version": "0.1.0",
+      "sizeBytes": 13654454,
+      "required": true,
+      "notes": [
+        "Первый подписанный Windows-выпуск",
+        "Обновления кода, моделей и медиатеки разделены"
+      ]
+    },
+    {
+      "kind": "models",
+      "title": "Локальные модели",
+      "version": "0.1.0",
+      "sizeBytes": 192820345,
+      "notes": [
+        "Multilingual MiniLM и локальный анализ изображений CLIP",
+        "Устанавливается отдельно от приложения"
+      ],
+      "package": {
+        "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.0/mythic-worlds-models-0.1.0.zip",
+        "sha256": "3aacacb3e1e13125e0edf18f1401093215ae16dc47ba92492854a6ba355dcdaf",
+        "sizeBytes": 192820345,
+        "signature": "untrusted comment: signature from tauri secret key\nRUSAg1vrmX/ciTOJKQeEOXefxEjWE7g8ppycHKMs9FVJpuH49pNRGoYyrx+2SdeUYvIqd4euDECW1IDa1X2qDJE2nbrS/fXVcQw=\ntrusted comment: timestamp:1785064941\tfile:mythic-worlds-models-0.1.0.zip\nS+NBnjfLbapLjLWA8+vFgWIRKwkSYbEFeUXOpeYHwgKA+k/L+Tnlhb36blaa1GIOR53OPayTL8WFCrA1ilVjDQ==\n"
+      }
+    },
+    {
+      "kind": "media",
+      "title": "Медиатека миров",
+      "version": "0.1.0",
+      "sizeBytes": 68986492,
+      "notes": [
+        "Локальные изображения, звуки, теги и метаданные",
+        "Обновляется независимо от кода"
+      ],
+      "package": {
+        "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.0/mythic-worlds-media-0.1.0.zip",
+        "sha256": "7586319f8c07c5df8962200b71e07c6f29a3bee37224e745dd6391857d4c0750",
+        "sizeBytes": 68986492,
+        "signature": "untrusted comment: signature from tauri secret key\nRUSAg1vrmX/ciYGt3N8rVPS4ICiOkC0pNDRn/snHSfyUk9cuJq/JGjPBiF8qMT6vD+owxRlAafocLP2UDGgEAOXNTKgCASyDOgs=\ntrusted comment: timestamp:1785063080\tfile:mythic-worlds-media-0.1.0.zip\nfViL1clRbUqRUDsbshCj6wrVseO/IpZu4qopHpWQZA9CCXSceQBEj1Oz4QJ0M4v/LNx4sfqE5xpYpaJDlZhsAA==\n"
+      }
+    }
+  ]
+}
