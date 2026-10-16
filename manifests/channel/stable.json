@@ -9,7 +9,7 @@
       "version": "0.1.8",
       "sizeBytes": 282335750,
       "required": true,
-      "manualDownloadUrl": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/untagged-dc72d4dd87b6d38fee12/Mythic-Worlds-Setup.exe",
+      "manualDownloadUrl": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.8/Mythic-Worlds-Setup.exe",
       "signingKey": "v2",
       "notes": [
         "Подписанное обновление приложения.",
