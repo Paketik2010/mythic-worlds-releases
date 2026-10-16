@@ -1,0 +1,11 @@
+{
+  "version": "0.1.8",
+  "notes": "# Mythic Worlds 0.1.8\n\n## Signed in-app updates / Подписанные обновления\n\n- Создан отдельный ключ подписи v2 для следующих выпусков.\n- В приложение встроен новый открытый ключ и отдельный канал подписанных обновлений.\n- Установщики публикуются вместе с подписью; подпись и контрольная сумма проверяются перед публикацией.\n- Новые пакеты медиа могут подписываться ключом v2, ранее выпущенные пакеты сохраняют совместимость.\n- Прокрутка, изображения, оформление и игровые сохранения не изменялись относительно 0.1.7.\n\n## Однократный переход\n\nВерсии до 0.1.8 доверяют прежнему ключу. Установите 0.1.8 один раз вручную с официального сайта, в тот же каталог. Последующие выпуски этого канала устанавливаются кнопкой «Обновить» в приложении. На самой актуальной версии иконка не показывается.\n\nЗакрытый ключ не входит в приложение, сайт или GitHub-релиз. Проверка подписи не отключалась.\n",
+  "pub_date": "2026-10-16T13:08:12Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MGFWRjgvOUhadklmYlJRSkFSNjJ2ZXJjcmU5cXVVRm1sVkwvZ1pQRUdmZnVMbWpHL1hJNUZyRFVpY1VwYUJQNTdvS2ZuRGRSWkxoREVvV2hySXR5dUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTU1OTcwCWZpbGU6TXl0aGljIFdvcmxkc18wLjEuOF94NjQtc2V0dXAuZXhlCkRpZlp3NkNnT2xWWGRCOUtJOEliSENVTG1CSnBuSmZiYlhWTVkzdjZDb3c1RFFMNmRLeS9hMEpqY3o3OTVhNm9WNTdjQk93Y1ppSVZEN01vTWpVR0NnPT0K",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/untagged-dc72d4dd87b6d38fee12/Mythic-Worlds-Setup.exe"
+    }
+  }
+}

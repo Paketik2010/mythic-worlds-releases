@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "publishedAt": "2026-10-16T12:45:31.415Z",
+  "publishedAt": "2026-10-16T13:08:12Z",
   "components": [
     {
       "kind": "application",
-      "title": "Mythic Worlds 0.1.7",
-      "version": "0.1.7",
-      "sizeBytes": 282334126,
-      "required": false,
-      "manualDownloadUrl": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.7/Mythic-Worlds-Setup.exe",
+      "title": "Mythic Worlds 0.1.8",
+      "version": "0.1.8",
+      "sizeBytes": 282335750,
+      "required": true,
+      "manualDownloadUrl": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/untagged-dc72d4dd87b6d38fee12/Mythic-Worlds-Setup.exe",
+      "signingKey": "v2",
       "notes": [
-        "Прокрутка без перерисовки всего чата; оформление не менялось.",
-        "Ручная установка: подпись для встроенного канала ещё не опубликована."
+        "Подписанное обновление приложения.",
+        "Для клиентов до 0.1.8 нужен однократный переход с сайта."
       ]
     },
     {
