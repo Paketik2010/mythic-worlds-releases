@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.13",
+  "sha256": "99bbfe1e56c16d61b4b2152ecd4db62fdc08b25df40ecc13380a8f241d24d585",
+  "bytes": 282604580,
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MGFUSXM0YzJWZ2s0TzMwclNRVTNBOFlYeTI5VDlwdm95c0VUK2VJNFM0MXlsUUUzQTFJU0lMOEtkb0ttaXVBbXMyVHh4VEJGdjNUNVhqaVEzSysxNkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTkzNTQ2CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMTNfeDY0LXNldHVwLmV4ZQpSRk5pWXFKTGd1UFd6QUlWTFB0cVRmQzB1NUZ2L0tiRjNpaFhhOHhWSlFNUnRHenRoSER3cWtyWStsZXB6bEdsT2JnbmtKRndIa0tOaWc1ZFhzOW1CQT09Cg==",
+  "publicKey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQxNzExNUI4RUE2MEVGOTgKUldTWTcyRHF1QlZ4MFo1WFVRN0s1UFN6SDlIWWRmcFVIa04zRW1FODl4UmpkU01JVXRrQzl1L00K",
+  "downloadUrl": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.13/Mythic-Worlds-Setup.exe",
+  "updaterEndpoint": "https://raw.githubusercontent.com/Paketik2010/mythic-worlds-releases/main/manifests/app/stable-v2.json",
+  "minimumBootstrapVersion": "0.1.8"
+}
