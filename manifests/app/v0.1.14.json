@@ -1,0 +1,11 @@
+{
+  "version": "0.1.14",
+  "notes": "# Mythic Worlds 0.1.14\n\n## Правки интерфейса и генерации\n\n- Единая правая панель сведений о мире и персонаже: одинаковые карточки, размеры, контраст, рамки, кнопки закрытия и прокрутка.\n- Закрытие панели доступно сверху даже при длинных сведениях. При переключении миров новая панель начинается с начала.\n- Закрепление списка чатов с переключением стрелки. Закреплённая и временная панели не смещают переписку.\n- Настройки изображений во «Внешнем виде»: все изображения, только фоны, только картинки в сообщениях или полностью выключено; частота и стиль там же.\n- Возрастные тона генерации мира для сторонних провайдеров. Рейтинг R+ разрешает в правилах детализированные взрослые сцены между согласными совершеннолетними; возможности конкретного провайдера определяют итоговый вывод.\n- Сеттинг пользовательского описания имеет приоритет над происхождением выбранного персонажа.\n- Убраны повторяющиеся ответы из контекстного поиска и повторного сохранения; существующий фон не исчезает на каждом ответе, аватары NPC сохраняются при переключении моделей.\n- Оформление и голосовой ползунок питомца согласованы с остальными настройками.\n\nМиры и пользовательские сохранения не сбрасываются. Обновление подписано постоянным ключом v2.\n",
+  "pub_date": "2026-10-17T09:10:50Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MGZzemxDODhNd05UUVNJQTloYW5vaTZWVVQwM24xdnJ1M3JNMVZBZGpXNnd0cDVHR0QzV2NvK09NeGVhelVFYWNxdUpkS0FGUEVpK2ZoSlJyOEtvTVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjI4MTMxCWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMTRfeDY0LXNldHVwLmV4ZQpvRjlvZm5jcCtNazRnK25Hb0dyUjhtMG40THFVTzNmd0kreTZsZklRLy9WMXcxeDI0am1ObXNwRDVsSjhJL2xyMFhGQVpHMjBrdWxtcjBuVjFjRUNCQT09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.14/Mythic-Worlds-Setup.exe"
+    }
+  }
+}
