@@ -1,0 +1,11 @@
+{
+  "version": "0.1.16",
+  "notes": "# Mythic Worlds 0.1.16\n\n- Обновлён интерфейс настроек, профиля, баланса и редакторов миров и персонажей.\n- Интеграция WuProj: общий кошелёк, автоматические тарифы моделей и рекомендуемые модели с примерной стоимостью хода.\n- История локальных расходов сохраняется между запусками; отображение расходов доступно в Gold, рублях и долларах.\n- Добавлены фоны личных чатов персонажей, отдельные тестовые чаты в редакторах и окно «Что нового».\n- Выбор валюты в общих настройках приведён к общему стилю; баланс в полях ввода отображается без заливки и кнопки обновления.\n\nПолный установщик Windows и подписанное автоматическое обновление.\n",
+  "pub_date": "2026-10-22T12:17:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MGYrRTV2NTFDTmRxYVpRTnZrcnFPZUx3dVJIbUNwelNSQW83emZnV21LcEovYzRQbHFZemZFZ1NEVjZaQUJpbHVsdHpOd1hDZjJtNzdiVFM3YXVRZGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxMzA5CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMTZfeDY0LXNldHVwLmV4ZQozL3ZwdUUxY3MybW1QQndQekRrWjdBeGVSa01XN2tsTEJNam1ISkJGbk0wNXdGUk5kR3lhTk5reGw4WWZYQ1FqcHBHZkNmdlNNTGFtV3o2N0JlWVhBdz09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.16/Mythic-Worlds-Setup.exe"
+    }
+  }
+}
