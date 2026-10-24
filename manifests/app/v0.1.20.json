@@ -1,0 +1,11 @@
+{
+  "version": "0.1.20",
+  "notes": "# Mythic Worlds 0.1.20\n\nОбновление стратегического режима и действующих игровых систем.\n\n- Стратегия: развитие отношений между державами, реакций населения и дипломатии; участники военных коалиций и исходы подтверждённых боёв.\n- Стратегия: длительные стройки с прогрессом, самостоятельные мировые события, промышленность, торговля, макропоказатели и отчёт о движении бюджета за ход.\n- Стратегия: маршруты, снабжение и готовность армий; запрет неподтверждённого преждевременного прибытия.\n- Карта стратегии и журнал: события, объекты, состояние производств и движения войск.\n- Существующие RP-миры и персонажи сохраняются; формат пользовательских сохранений не сбрасывается.\n- Для Windows установлен тот же подписанный ключ обновлений v2, что и у 0.1.19. Автоматическое обновление поддерживается с 0.1.8.\n\nСборка: Mythic Worlds 0.1.20 (Windows x64, подписанный NSIS). Веб-версия публикуется отдельно через Firebase Hosting.\n",
+  "pub_date": "2026-10-24T20:04:32Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MFdIbC90QVpQcHhCOWxyRUhPWTluTFBGT1lrVUFhM2xISk1DN3l1bThHd1UrdHp1d0hZUEpwQXAwSGJta2JucEtON1k1QmJRend1U1lnSFArZm5aV1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODcyMTk3CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjBfeDY0LXNldHVwLmV4ZQplTlJmWFJPT2Myb1JkM2ZWeW9vR0psSC9HYXFqdnFNQ3dHQUpBa21FaEFwdU5GZkdmbHlweC9CZERuY29YbGVSSlFsZGlOdzMyNXF4bFpuZHI5S2xCZz09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.20/Mythic-Worlds-Setup.exe"
+    }
+  }
+}

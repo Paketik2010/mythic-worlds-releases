@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "publishedAt": "2026-10-24T09:47:40Z",
+  "publishedAt": "2026-10-24T20:04:32Z",
   "components": [
     {
       "kind": "application",
-      "title": "Mythic Worlds 0.1.19",
-      "version": "0.1.19",
-      "sizeBytes": 359180752,
+      "title": "Mythic Worlds 0.1.20",
+      "version": "0.1.20",
+      "sizeBytes": 359169044,
       "required": true,
-      "manualDownloadUrl": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.19/Mythic-Worlds-Setup.exe",
+      "manualDownloadUrl": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.20/Mythic-Worlds-Setup.exe",
       "signingKey": "v2",
       "notes": [
         "Подписанное обновление приложения.",

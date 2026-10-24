@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "notes": "# Mythic Worlds 0.1.19\n\nИсправление обработки состояния локации в игровых мирах.\n\n- Исправлена ошибка «Indoors должен быть true или false» при неполном ответе State Tracker.\n- Обязательные поля LOCATION теперь сохраняются при частичном обновлении, без дополнительного запроса к модели.\n- Сохранено корректное определение нахождения внутри помещения и снаружи при подтверждённой смене локации.\n- Без изменений архитектуры сюжетных моделей, памяти, интерфейса и прочих игровых систем.\n- Установщик Windows подписан постоянным ключом v2. Автоматическое обновление доступно с 0.1.8; для более старых версий нужна разовая установка.\n\nПроверено: полный набор тестов Multihog, TypeScript, восстановление существующего состояния и валидация подписи.\n",
-  "pub_date": "2026-10-24T09:47:40Z",
+  "version": "0.1.20",
+  "notes": "# Mythic Worlds 0.1.20\n\nОбновление стратегического режима и действующих игровых систем.\n\n- Стратегия: развитие отношений между державами, реакций населения и дипломатии; участники военных коалиций и исходы подтверждённых боёв.\n- Стратегия: длительные стройки с прогрессом, самостоятельные мировые события, промышленность, торговля, макропоказатели и отчёт о движении бюджета за ход.\n- Стратегия: маршруты, снабжение и готовность армий; запрет неподтверждённого преждевременного прибытия.\n- Карта стратегии и журнал: события, объекты, состояние производств и движения войск.\n- Существующие RP-миры и персонажи сохраняются; формат пользовательских сохранений не сбрасывается.\n- Для Windows установлен тот же подписанный ключ обновлений v2, что и у 0.1.19. Автоматическое обновление поддерживается с 0.1.8.\n\nСборка: Mythic Worlds 0.1.20 (Windows x64, подписанный NSIS). Веб-версия публикуется отдельно через Firebase Hosting.\n",
+  "pub_date": "2026-10-24T20:04:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MFYrUTJDU0EvbHFTdXpwejNMblRxNGpWS1VjekFkOVdGU0RhVEx1NXhaTFNjUE1yaHdNbGZBZmRRWDVOOGVzYWpNUWg4VDQxVEpIbVdibE4yUmFKYmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODM1MTIwCWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMTlfeDY0LXNldHVwLmV4ZQpWR1FYWTZnY0pnWWdwZndnWDAwQTh2cUd4cEFDa2FhaUoyMXVCMGluRDA3dEdEbUFaSWdxSzNiNU9jNU5IZFZwYndhampnR25zRjlaRjgzazlSVitEUT09Cg==",
-      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.19/Mythic-Worlds-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MFdIbC90QVpQcHhCOWxyRUhPWTluTFBGT1lrVUFhM2xISk1DN3l1bThHd1UrdHp1d0hZUEpwQXAwSGJta2JucEtON1k1QmJRend1U1lnSFArZm5aV1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODcyMTk3CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjBfeDY0LXNldHVwLmV4ZQplTlJmWFJPT2Myb1JkM2ZWeW9vR0psSC9HYXFqdnFNQ3dHQUpBa21FaEFwdU5GZkdmbHlweC9CZERuY29YbGVSSlFsZGlOdzMyNXF4bFpuZHI5S2xCZz09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.20/Mythic-Worlds-Setup.exe"
     }
   }
 }
