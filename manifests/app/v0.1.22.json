@@ -1,0 +1,11 @@
+{
+  "version": "0.1.22",
+  "notes": "# Mythic Worlds 0.1.22\n\nИсправления непрерывности RP-сцен: учёт участников и игрового времени, сопоставление локаций и имён, передача сведений персонажам с учётом источника. Улучшено сохранение недавнего диалога при сборке контекста. Включены текущие изменения интерфейса и исправления приложения.\n",
+  "pub_date": "2026-10-27T14:35:37Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MFN4MDVBN3plY3R5Y0JDTjNWK3R5bkNTMkF5cGV2RkUyekx5U0FQeXQ0WUxJeHNxMkxDdFhCNG92VElaTFE3d0I1Uzk1VTdxdDBudjNIME5uQ2E0SVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTExNjU5CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjJfeDY0LXNldHVwLmV4ZQp2M1h0OVRQOG5uRDdPdmhSVHBsQnBUeWdvcWtrWUNPNUpZS0d1eWdUVitGZWdNZVFsTzliTExML1J2WW56b3pxdW9PbWdybFovQm5FbzdLVHUwZytDUT09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.22/Mythic-Worlds-Setup.exe"
+    }
+  }
+}

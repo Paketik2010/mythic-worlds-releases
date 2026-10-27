@@ -1,11 +1,11 @@
 {
-  "version": "0.1.21",
-  "notes": "# Mythic Worlds 0.1.21\n\nОбновление Mythic Worlds для Windows (ПК).\n\n- Добавлен отдельный раздел «Миры»: карточки миров, поиск и закрепление, прямое открытие игры или редактора.\n- В редакторе мира и стратегии можно поставить, заменить или убрать изображение обложки карточки. Обложка хранится отдельно от игрового фона и не попадает в контекст сюжетной модели.\n- Обновлены интерфейсы создания миров и персонажей, стеклянные поля ввода, отображение и поведение анимированной обводки.\n- Исправлены ошибки старой анимации дыма и вылета галереи миров при открытии.\n- Укреплён контракт служебного агента броска кубика GPT-5 nano: одно структурированное решение, существующая механика и генератор случайных чисел без изменений.\n- Улучшены система памяти, лорбук, сцены и ход игровых миров, а также архитектура стратегического режима.\n- Начата адаптация интерфейса к узким экранам; мобильный APK не включён в этот релиз.\n- Существующие миры, персонажи, история, настройки и счета не сбрасываются. Сервисы провайдера могут временно отвечать 429 при перегрузке.\n\nУстановщик Windows x64 подписан прежним ключом обновления v2. Автообновление поддерживается с 0.1.8; более старым версиям потребуется однократная переустановка.\n",
-  "pub_date": "2026-10-25T16:17:34Z",
+  "version": "0.1.22",
+  "notes": "# Mythic Worlds 0.1.22\n\nИсправления непрерывности RP-сцен: учёт участников и игрового времени, сопоставление локаций и имён, передача сведений персонажам с учётом источника. Улучшено сохранение недавнего диалога при сборке контекста. Включены текущие изменения интерфейса и исправления приложения.\n",
+  "pub_date": "2026-10-27T14:35:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MFRQcjZoQytvZnpHWW9zZ3E5aTUxbTFKeWtxd2lRT1lyMTIyU2ZFVVEvbjJsdXJVWG80ODZyQWUzVnQyOVJCNGdpMG1wTE9oN2ZPQkNrMGxjeUtPYnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ0OTYzCWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjFfeDY0LXNldHVwLmV4ZQpuK1RQK0ZwMnFyVHBtbVlHU3NiS0Z0KzJKb2swWGJqSjlJbCtkeVZnYktuS3BCanlJNUlTNEt3ekF3cmZZeHVkSStoV1NHMXNlTGFjcXBlOElycE5BUT09Cg==",
-      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.21/Mythic-Worlds-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MFN4MDVBN3plY3R5Y0JDTjNWK3R5bkNTMkF5cGV2RkUyekx5U0FQeXQ0WUxJeHNxMkxDdFhCNG92VElaTFE3d0I1Uzk1VTdxdDBudjNIME5uQ2E0SVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTExNjU5CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjJfeDY0LXNldHVwLmV4ZQp2M1h0OVRQOG5uRDdPdmhSVHBsQnBUeWdvcWtrWUNPNUpZS0d1eWdUVitGZWdNZVFsTzliTExML1J2WW56b3pxdW9PbWdybFovQm5FbzdLVHUwZytDUT09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.22/Mythic-Worlds-Setup.exe"
     }
   }
 }
