@@ -1,0 +1,11 @@
+{
+  "version": "0.1.23",
+  "notes": "# Mythic Worlds 0.1.23\n\n- Уточнены границы знаний NPC: внутренние симптомы героя, скрытые намерения и прошлые события не должны автоматически становиться известны окружающим.\n- Улучшено начало обычных занятий: действие игрока получает конкретную попытку и обратную связь вместо повторяющейся подготовки или навязанного меню.\n- Исправлена обработка фоновых задач: некорректная операция больше не отменяет независимые подтверждённые действия. Зависимые неподтверждённые результаты не попадают в состояние мира и лор.\n- Улучшен выбор участников фонового обзора после обновления их карточек; уточнены идентификаторы и права записи операций.\n\nПравки универсальны для разных миров. Сохранения не сбрасываются. Обновление не добавляет новых служебных вызовов ИИ само по себе и не меняет выбранную игроком модель рассказчика.\n",
+  "pub_date": "2026-11-03T15:58:37Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MGJiT1hkLy9xMG1ZTm1rQnlUWWNwT1JBM2x5VWluZ0VBRW92VVFja2IxbTRZSnBDTzlTN29yRWZWTkNOR1NDeVVwS3JnLzBwTUZhY3VabVREcDBVOUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzIxMzA4CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjNfeDY0LXNldHVwLmV4ZQpDWVBmc3FLRTR0QmVFNnBxRUgyanI4eitEdWtuSXdwT04vN0lvUkQvWmFZemRIS01hN2ZEeXZmRUNjYmlzOEJGQVZ3SmgrbnFiT0RBV0hYMFpvOUdCUT09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.23/Mythic-Worlds-Setup.exe"
+    }
+  }
+}
