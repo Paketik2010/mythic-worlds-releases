@@ -1,0 +1,11 @@
+{
+  "version": "0.1.26",
+  "notes": "# Mythic Worlds 0.1.26 — исправление проверки временных доказательств\n\nИсправлена ошибка **«Time evidence validation failed after one strict correction: End-clock review lacks literal scene evidence»**, из-за которой игра могла отклонять полностью рассказанный ход.\n\n- Исправлена проверка дословных свидетельств: кавычки, добавленные агентом вокруг настоящей цитаты, больше не считаются изменением фактов. Придуманное время, чужие слова и ложные ссылки на источники по-прежнему отклоняются.\n- Уточнён семантический анализ хронологии. Например, въезд к зданию в 20:14 может предшествовать последующим действиям в холле и финальному времени сцены 20:15. Код не выдумывает прибытие или длительность.\n- Если первый агент времени возвращает несовместимые доказательства, **независимая GPT-6 Luna** заново анализирует исходные события. Ошибочный первый ответ не передаётся ей как образец. Ограничение на число попыток сохраняется, бесконечных платных запросов нет.\n- Сохранены GPT-5 Nano Eco Priority для фоновых задач, GPT-6 Luna Eco Priority для сложных проверок, выбранная игроком модель рассказчика, RP V9, все миры и сохранения.\n- Конкретная история «Огни Голливуда»: подъезд в 20:14 и финальная сцена 20:15 проверены реальным вызовом GPT-6 Luna на лабораторном ключе и автоматическим тестом, без включения ключа в релиз.\n\nОбновление Windows через существующий подписанный канал Tauri updater v2. Установленная копия приложения не заменяется вручную.\n",
+  "pub_date": "2026-11-15T20:23:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MGYwSS9FYU11M284b0hJbVFrVTdYM1V3eURlcTF6KzF4T3NNazEvcy8vd2UxRXFEZldvcVhkQ2R5ZlJJSkUwZ1Nsc3VyaWR1ME51Z0FuaWUrRjBqaVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc0MDI1CWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjZfeDY0LXNldHVwLmV4ZQpCMDFKNHFiU0cwUXZtSTRnQXU2clIrWE91aXpBbFp2MW5lZTZLSVZzM3EvK3lEODMvTHpFZzBjR2c4TEF0OUhsNTdNcHB5WDFra2dIZXJvNVBuQzZCZz09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.26/Mythic-Worlds-Setup.exe"
+    }
+  }
+}
