@@ -1,0 +1,11 @@
+{
+  "version": "0.1.25",
+  "notes": "# Mythic Worlds 0.1.25\n\n## Исправления времени и сюжетной последовательности\n\n- Исправлена ошибка **«State Tracker: TIME и elapsedMinutes противоречат друг другу. Ход не применён»** в длинных сценах. При переходах между локациями, поездках и других продолжительных событиях отдельный ИИ-анализ времени теперь получает больше контекста и согласованно записывает время и прошедшие минуты.\n- В случаях, где время не подтверждено, приложение **не придумывает** количество минут ради принятия хода. Действующая защита целостности сохранения остаётся.\n- Улучшено различение событий, произошедших в разное время: старый выезд из студии и новый выезд из дома не считаются противоречием только из-за сходства действий.\n- Сюжетные решения, причины перемещения и присутствие NPC по-прежнему определяют рассказчик и семантические агенты, а не регулярные выражения и жёсткие сценарии в коде.\n\n**Модели не изменены:** Tracker работает на GPT-5 Nano Eco Priority, Lorebook и сложные проверки на GPT-6 Luna Eco Priority; модель рассказчика остаётся выбранной игроком.\n\nОбновление для Windows. Существующие миры, настройки и сохранения не сбрасываются. Подпись и канал автообновления остаются прежними.\n",
+  "pub_date": "2026-11-15T17:36:29Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTcyRHF1QlZ4MFlKeUxGdlh0TDZvOEJ4MnBmUUZMSnhQTFl2WmVZMjFaR0NrUGVJRWJNQkFjQVB0dDR6elBuN3FKWmdoM2pTdDgvcHUwbGRxcFNsRkdyTVpOVWxXN3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzYyOTUxCWZpbGU6TXl0aGljIFdvcmxkc18wLjEuMjVfeDY0LXNldHVwLmV4ZQoraUU0QzFaQSs1NVFSRk9UZE9NV2lxd3FYc3ptNmZQVnIzS3ZhNlNsbk5lbERzeGhaRncyeWt0aVRKU05VbFFwSW8xaXk3OTBldE1TcVZVektma1pEZz09Cg==",
+      "url": "https://github.com/Paketik2010/mythic-worlds-releases/releases/download/v0.1.25/Mythic-Worlds-Setup.exe"
+    }
+  }
+}
